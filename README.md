@@ -1,9 +1,9 @@
 # Laravel - Cidades Brasileiras
 ##### Models, Migrations e Seeder com as Cidades, Estados e Regiões Brasileiras de acordo com os padrões do IBGE
 
-5 Regiões
-26 Estados e Distrito Federal, com código do IBGE
-5.565 Cidades, com código do IBGE
+5 Regiões</br>
+26 Estados e Distrito Federal, com código do IBGE</br>
+5.565 Cidades, com código do IBGE</br>
 
 1. Models
     ```
