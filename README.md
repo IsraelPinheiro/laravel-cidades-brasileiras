@@ -7,8 +7,8 @@
 
 1. Models
     ```
-    Regioes.php
-    Estados.php
+    Regiao.php
+    Estado.php
     Cidade.php
     ```
 
